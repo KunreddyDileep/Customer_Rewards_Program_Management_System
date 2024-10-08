@@ -17,12 +17,15 @@ This project demonstrates proficiency in React.js and robust application design 
 ## Setup and Execution Steps
 
 1. **Clone the Repository:**
+
    ![Screenshot 2024-10-08 135344](https://github.com/user-attachments/assets/6422205b-49e3-44c5-9733-472b0dde082d)
 
 3. **Install Dependencies:** Run the following command to install all required packages:
+
    ![Screenshot 2024-10-08 135501](https://github.com/user-attachments/assets/68b7f4fb-c448-49ad-af17-440171e80a8a)
 
 4. **Start the Development Server:** Launch the application locally:
+
    ![Screenshot 2024-10-08 135552](https://github.com/user-attachments/assets/ddc6aaae-295a-4359-9989-64c6b3ad546b)
 
    The app will be accessible at http://localhost:3000/.
